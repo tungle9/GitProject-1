@@ -1,1 +1,11 @@
-hello
+\<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sở thích của bạn</title>
+
+</head>
+<body>
+
+</body>
+</html>
